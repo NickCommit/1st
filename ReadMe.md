@@ -1,3 +1,3 @@
 GitHub test/
 
-Some challanges from codewars in code.js
+Some challanges from codewars in code.js file
